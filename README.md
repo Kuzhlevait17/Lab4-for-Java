@@ -115,7 +115,16 @@ Wildcard (?) представляет собой специальное обоз
 <img width="776" height="459" alt="image" src="https://github.com/user-attachments/assets/c07ab096-4a6e-49bb-9142-f6e245f92a97" />
 <img width="797" height="395" alt="image" src="https://github.com/user-attachments/assets/b345bd7f-3f3c-48ea-bab4-79d22f66f522" />
 <img width="769" height="597" alt="image" src="https://github.com/user-attachments/assets/b181cfac-8cac-4630-8384-ac233e2c698a" />
-
+<img width="841" height="824" alt="image" src="https://github.com/user-attachments/assets/a92aa5e1-80d2-4fe9-bb0d-474d5a12f7ec" />
+<img width="503" height="664" alt="image" src="https://github.com/user-attachments/assets/ac93a0c7-dbd0-484a-b294-9ccf197c640e" />
+<img width="478" height="424" alt="image" src="https://github.com/user-attachments/assets/d9004a8b-4515-4faf-873f-ee4e89a2fb62" />
+<img width="401" height="193" alt="image" src="https://github.com/user-attachments/assets/0d5a5515-2336-483c-a3c8-45b1efd7d945" />
+<img width="466" height="368" alt="image" src="https://github.com/user-attachments/assets/bfdc4e2d-9008-4e90-82d7-86cd86558d20" />
+<img width="401" height="191" alt="image" src="https://github.com/user-attachments/assets/3e590be9-cbfd-4b75-9c1e-1461ab056e3c" />
+<img width="524" height="423" alt="image" src="https://github.com/user-attachments/assets/bb543b8a-1a48-4829-9885-04664790ad77" />
+<img width="370" height="173" alt="image" src="https://github.com/user-attachments/assets/7fb44a78-2f98-4ecd-ab0b-c9461bec9307" />
+<img width="434" height="230" alt="image" src="https://github.com/user-attachments/assets/9fa343be-d025-478a-9353-07486ff2e8ab" />
+<img width="447" height="338" alt="image" src="https://github.com/user-attachments/assets/43103596-f358-415c-858c-3143c9adb7c1" />
 
 Нефункциональное.
 
@@ -137,6 +146,7 @@ Wildcard (?) представляет собой специальное обоз
 
 Задание 3.
 
+<img width="506" height="667" alt="image" src="https://github.com/user-attachments/assets/ed1a0bd2-b816-4442-bffe-dd6e9fb80e97" />
 <img width="409" height="666" alt="image" src="https://github.com/user-attachments/assets/a95f7afa-a3ee-4d30-a78f-788c3c7b8620" />
 <img width="786" height="433" alt="image" src="https://github.com/user-attachments/assets/6924145a-fbc8-4674-9c25-58a2e6159b66" />
 <img width="628" height="633" alt="image" src="https://github.com/user-attachments/assets/dc0732e9-fc3a-4a3c-8f22-160a6b5413e4" />

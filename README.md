@@ -121,7 +121,6 @@ Wildcard (?) представляет собой специальное обоз
 
 Работа Main();
 
-<img width="888" height="678" alt="image" src="https://github.com/user-attachments/assets/ef3c6f00-8d8b-4d0b-9f8c-4f0d83034e84" />
 <img width="618" height="398" alt="image" src="https://github.com/user-attachments/assets/974cbe4e-4524-401a-a474-7c1789d4ec98" />
 <img width="522" height="773" alt="image" src="https://github.com/user-attachments/assets/9a8ea095-cd63-450f-9e88-938a281fb9f9" />
 <img width="571" height="559" alt="image" src="https://github.com/user-attachments/assets/232716e1-e00c-4033-b5b8-b2d9dc4ea42a" />

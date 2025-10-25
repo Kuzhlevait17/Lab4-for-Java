@@ -101,8 +101,6 @@ Wildcard (?) представляет собой специальное обоз
 
 <img width="508" height="455" alt="image" src="https://github.com/user-attachments/assets/23409ad1-7e49-4557-8a84-12c03824c26f" />
 <img width="584" height="527" alt="image" src="https://github.com/user-attachments/assets/a6e75508-57c7-4e57-9b24-64fcbe1ae73b" />
-<img width="479" height="354" alt="image" src="https://github.com/user-attachments/assets/65271677-1b9d-46d1-9924-c98509606bda" />
-<img width="649" height="353" alt="image" src="https://github.com/user-attachments/assets/629d31d8-df6f-4a66-9399-1a268f537bde" />
 <img width="449" height="292" alt="image" src="https://github.com/user-attachments/assets/acc2d512-5dc6-4137-a032-86c6c93ceae8" />
 
 
@@ -130,8 +128,6 @@ Wildcard (?) представляет собой специальное обоз
 
 Задание 1.
 
-<img width="459" height="375" alt="image" src="https://github.com/user-attachments/assets/b2b94eb2-017d-4624-86b3-2174c548ba24" />
-<img width="690" height="534" alt="image" src="https://github.com/user-attachments/assets/025aa8d6-ecd9-4bd6-8895-2a110f4320ee" />
 <img width="543" height="699" alt="image" src="https://github.com/user-attachments/assets/51a2e6be-79ac-49a5-a977-6579276d08e3" />
 <img width="534" height="552" alt="image" src="https://github.com/user-attachments/assets/abf843b5-0775-49e8-b44c-4a228ddddcb8" />
 <img width="753" height="715" alt="image" src="https://github.com/user-attachments/assets/3fae728f-6183-4a48-83ed-5a3796c769c2" />

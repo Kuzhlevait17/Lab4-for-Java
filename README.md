@@ -106,8 +106,10 @@ Wildcard (?) представляет собой специальное обоз
 
 Задание 2.
 
-<img width="1166" height="273" alt="image" src="https://github.com/user-attachments/assets/3401da54-8df3-41b2-aeb0-fec163385302" />
-<img width="1263" height="267" alt="image" src="https://github.com/user-attachments/assets/05ab4806-992b-4560-8c19-dff72f12d3f9" />
+<img width="1741" height="477" alt="image" src="https://github.com/user-attachments/assets/1a78bb6c-ed25-4434-ad28-c2e3ba189444" />
+<img width="1782" height="428" alt="image" src="https://github.com/user-attachments/assets/2b01d3e4-7b32-4399-b09a-5044a466d2cf" />
+<img width="1806" height="457" alt="image" src="https://github.com/user-attachments/assets/ef0ec589-de63-4759-9a18-e23e9011c928" />
+<img width="1794" height="328" alt="image" src="https://github.com/user-attachments/assets/0bf158a6-2f65-4e7b-93c1-4d0a3a169242" />
 
 Задание 3.
 

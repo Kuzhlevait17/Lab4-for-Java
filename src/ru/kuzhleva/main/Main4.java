@@ -32,7 +32,7 @@ public class Main4 {
         while(run) {
             System.out.println("""
                     Добро пожаловать!
-                    Перед вами 3 лабораторная работа по Java.
+                    Перед вами 4 лабораторная работа по Java.
                     Всего есть на выбор 3 задачи.
                     1. Сравнимое, обобщенный изменяемый массив.
                     2. Заполнение списка.
@@ -322,16 +322,19 @@ public class Main4 {
                             его значениями от 1 до 100. Метод должен принимать список с более чем одной параметризацией.
                             """);
                     List<Integer> list1 = new ArrayList<>();
-                    List<Number> list2 = new ArrayList<>();
-                    List<Object> list3 = new ArrayList<>();
+                    List<Double> list2 = new ArrayList<>();
+                    List<Float> list3 = new ArrayList<>();
+                    List<Long> list4 = new ArrayList<>();
 
-                    GeneralizedImmutableList.fillList(list1);
-                    GeneralizedImmutableList.fillList(list2);
-                    GeneralizedImmutableList.fillList(list3);
+                    GeneralizedImmutableList.fillList(list1, Integer.class);
+                    GeneralizedImmutableList.fillList(list2, Double.class);
+                    GeneralizedImmutableList.fillList(list3, Float.class);
+                    GeneralizedImmutableList.fillList(list4, Long.class);
 
                     System.out.println("Integer: " + "\n" + list1 + "\n");
-                    System.out.println("Class Number: " + " \n" + list2 + "\n");
-                    System.out.println("Object: " + "\n" + list3 + "\n");
+                    System.out.println("Double: " + " \n" + list2 + "\n");
+                    System.out.println("Float: " + "\n" + list3 + "\n");
+                    System.out.println("Long:" + "\n" + list4 + "\n");
                     break;
                 }
                 case 3: {

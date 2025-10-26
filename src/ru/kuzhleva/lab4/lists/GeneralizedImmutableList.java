@@ -35,14 +35,21 @@ public class GeneralizedImmutableList<T> {
         newArr[index] = value;
         return new FillTheList<>(newArr);
     }
-    /**
-     * Раз заполнение работает с различными типами, т.е. Integer, Number, Object и т.д.
-     */
-    public static void fillList (List<? super Integer> list) {
+
+    public static <T extends Number> void fillList(List<T> list, Class<T> currentClass) {
         list.clear();
         for (int i = 1; i <= 100; i++) {
-            list.add(i);
+            T value = convertToType(i, currentClass);
+            list.add(value);
         }
+    }
+
+    private static <T extends Number> T convertToType(int value, Class<T> currentClass) {
+        if (currentClass == Integer.class) return currentClass.cast(value);
+        if (currentClass == Double.class) return currentClass.cast((double) value);
+        if (currentClass == Float.class) return currentClass.cast((float) value);
+        if (currentClass == Long.class) return currentClass.cast((long) value);
+        throw new IllegalArgumentException("Неподдерживаемый тип: " + currentClass);
     }
 
     public T[] toArray() {
